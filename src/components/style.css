@@ -1,0 +1,54 @@
+
+.box{
+    direction: rtl;
+    width: 58vw;
+    height: 66vh;
+    color:#58588a;
+    margin-left:200px;
+}
+
+.button{
+    text-align: center;
+    background: #4848dd;
+    border: #4848dd;
+    color: white;
+    border-radius: 30px;
+    width: 12vw;
+    height: 7vh;
+    padding: 10px;
+    margin: 20px;
+    margin-left:1100px;
+    font-size: 16px;
+    
+
+}
+.icon{
+    width: 4vw;
+}
+
+
+.accordion{
+    width: 185vh;
+    background-color: white;
+}
+.list{
+        margin-top: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.span{
+float:right; 
+}
+
+h2{
+    text-align: right;
+}
+.selected{
+    margin: 0px;
+    height: 7vh;
+}
+
+.box.f{
+    width:100ch
+}
